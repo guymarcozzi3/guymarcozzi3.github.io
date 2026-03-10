@@ -1,0 +1,27 @@
+title: "[YOUR FULL NAME]"
+tagline: "Trusted Counsel. Strategic Clarity. Lasting Results."
+description: "Independent Board Member, Executive Advisor, and Speaker."
+baseurl: ""
+url: "https://yourdomain.com"
+
+# Build
+markdown: kramdown
+theme: null
+plugins: []
+
+# Navigation
+nav:
+  - label: Home
+    url: /
+  - label: Bio
+    url: /bio/
+  - label: Book
+    url: /book/
+  - label: Speaking
+    url: /speaking/
+  - label: Podcast
+    url: /podcast/
+
+# Contact
+linkedin_url: "https://linkedin.com/in/yourhandle"
+contact_email: "you@yourdomain.com"
