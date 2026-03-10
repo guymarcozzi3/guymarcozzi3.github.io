@@ -1,8 +1,8 @@
-title: "[YOUR FULL NAME]"
+title: "Guy Marcozzi"
 tagline: "Trusted Counsel. Strategic Clarity. Lasting Results."
 description: "Independent Board Member, Executive Advisor, and Speaker."
 baseurl: ""
-url: "https://yourdomain.com"
+url: "https://guymarcozzi3.github.io"
 
 # Build
 markdown: kramdown
@@ -23,5 +23,5 @@ nav:
     url: /podcast/
 
 # Contact
-linkedin_url: "https://linkedin.com/in/yourhandle"
-contact_email: "you@yourdomain.com"
+linkedin_url: "https://linkedin.com/in/guymarcozzi"
+contact_email: "guy@moltotempo.com"
