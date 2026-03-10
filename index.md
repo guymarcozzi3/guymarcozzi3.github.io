@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Home
@@ -7,7 +8,7 @@ title: Home
   <div class="container">
     <div class="hero-text">
       <p class="hero-eyebrow">Independent Board Member &amp; Executive Advisor</p>
-      <h1 class="hero-name">[Your Full Name]</h1>
+      <h1 class="hero-name">Guy Marcozzi</h1>
       <p class="hero-tagline">Trusted Counsel. Strategic Clarity. Lasting Results.</p>
       <p class="hero-desc">
         Trusted advisor to CEOs and boards — guiding strategy in changing times,
@@ -16,9 +17,7 @@ title: Home
       </p>
     </div>
     <div class="hero-photo">
-      <!-- Replace the placeholder below with your actual photo:
-           <img src="/assets/images/headshot.jpg" alt="[Your Name]" /> -->
-      <div class="hero-photo-placeholder">Your Photo Here</div>
+      <img src="/assets/images/headshot.jpg" alt="Guy Marcozzi" />
     </div>
   </div>
 </section>
@@ -41,7 +40,7 @@ title: Home
       </div>
       <div class="focus-card">
         <h3>Author</h3>
-        <p>Practical frameworks for leaders navigating change, available in <a href="/book/">[Your Book Title]</a>.</p>
+        <p>Practical frameworks for leaders navigating change, available in <a href="/book/">your book</a>.</p>
       </div>
     </div>
   </div>
